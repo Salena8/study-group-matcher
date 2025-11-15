@@ -5,17 +5,17 @@ A web app that helps students find compatible study partners based on their majo
 ## Features
 
 - **Smart Matching Algorithm** - Get matched with students based on:
-  - Major (30% weight)
-  - Year of study (25%)
-  - Subjects (25%)
-  - Interests (20%)
-  - Timezone (5%)
+   Major (30% weight)
+   Year of study (25%)
+   Subjects (25%)
+   Interests (20%)
+   Timezone (5%)
   
 - **Google OAuth Login** - Quick and easy authentication
 - **Profile Management** - Create and edit your profile with your subjects and interests
 - **Live Match Cards** - Browse potential study partners with match percentages
 - **Connection Management** - Accept or reject connection requests
-- **Responsive Design** - Beautiful pastel UI that works on all devices
+- **Responsive Design** - Beautiful UI that works on all devices
 
 ## Tech Stack
 
